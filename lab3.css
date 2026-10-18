@@ -1,0 +1,34 @@
+body {
+    background-color: darkolivegreen;
+    font-family: monospace;
+}
+header {
+    color: lightskyblue;
+}
+p {
+    font-size: medium;
+    line-height: 1.5;
+    color: gainsboro;
+}
+strong {
+    font-weight: bold;
+}
+em {
+    font-style: italic;
+}
+ol, ul {
+    padding-left: 20px;
+    color: rgb(227, 235, 126);
+}
+hr {
+    border: none;
+    border-top: 1px solid black;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+.copyright {
+    font-style: italic;
+    font-size: x-small;
+}
